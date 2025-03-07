@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: "Dosis", serif;
+      background-color: #f0f4f8;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.levelDisplay {
+  font-size: 1.5rem;
+  color: #34495e;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
